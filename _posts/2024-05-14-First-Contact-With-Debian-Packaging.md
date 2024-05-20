@@ -6,7 +6,7 @@ Frist he taught us about the basic concept of Debian packaging, such as it poupo
 
 Then, we start the first step of Debian packaging, following the tutorials bellow written by Joenio:
 
-[Tutorial de empacotamento Debian - Parte 1](https://joenio.me/tutorial-pacote-debian-parte1/)
+1. [Tutorial de empacotamento Debian - Parte 1](https://joenio.me/tutorial-pacote-debian-parte1/)
 
 In this tutorial, we need to download a simple library called Acme::Helloworld, which just prints a "Hello World".
 
