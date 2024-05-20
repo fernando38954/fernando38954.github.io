@@ -58,16 +58,23 @@ index 8b03d4469..3fc34a3a8 100644
 -- 
 2.34.1
 ```
-Also, I sent a PR to the kw project correcting some code style errors, which required a bit of work due to the [SC2294](https://www.shellcheck.net/wiki/SC2294) error when I'm trying to commit the code.
+Also, I sent a PR to the kw project correcting some code style errors:
+
+```
+- distro=$(cat /etc/*-release | grep -w 'ID\(_LIKE\)\?' | cut -d = -f 2 | xargs echo)
++ distro=$(grep < /etc/*-release --word-regexp 'ID\(_LIKE\)\?' | cut --delimiter = --fields 2 | xargs printf)
+```
+
+But due to the [SC2294](https://www.shellcheck.net/wiki/SC2294) shellcheck error, I'm not able to commit the code and need to fix this problem first.
 
 First I tried to remove the eval:
 ```
 -  eval "$@"
 +  "$@"
 ```
-but it didn't pass the unit test (And I only noticed it whe I'm sending the PR 🤦‍♂️), so I had to take another solution by replace the @ to *:
+But it didn't pass the unit test (And I only noticed it whe I'm sending the PR 🤦‍♂️), so I had to take another solution by replace the @ to *:
 ```
 - eval "$@"
 + eval "$*"
 ```
-And it finaly works and the PR was sended to maintainers of kw.
+Finaly, with some help of monitor about git rebase, it finaly works and the PR was updated correctly for project of kw.
