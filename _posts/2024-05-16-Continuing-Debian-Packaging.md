@@ -2,7 +2,7 @@
 
 As mentined before, we continued and finished the first tutorial of Debian Packaging and starts the second part:
 
-2. [Tutorial de empacotamento Debian - Parte 2](https://joenio.me/tutorial-pacote-debian-parte2/)
+1. [Tutorial de empacotamento Debian - Parte 2](https://joenio.me/tutorial-pacote-debian-parte2/)
 
 In this part we need to choose one of lit goes alribraries and repeat what we have doned in this new library.
 
