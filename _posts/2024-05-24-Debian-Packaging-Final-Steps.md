@@ -5,5 +5,3 @@ I asked our lecturer, Joenio Marques, about the possible causes of the errors re
 After deleting all the related global variables and repackaging, the problem was solved, and furthermore, when I went to run the second error from yesterday, it also mysteriously disappeared. 
 
 Now I've fixed all the errors, I've already reported the ITP too, all that's left is for the Salsa team to accept my request to upload the package.
-
-I hope they respond soon, preferably before next Tuesday so I can present it to the class.
