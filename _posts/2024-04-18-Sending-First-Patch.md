@@ -1,5 +1,7 @@
 ## Sending First Patch
 
+First we tried to make a basic patch correcting only the codestyle of some files, after which we did the following patch:
+
 We have replaced bellow code in drivers/iio/adc/ad7266.c of Branch TESTING of repository IIO
 ```tsql
     ret = iio_device_claim_direct_mode(indio_dev);
@@ -30,6 +32,8 @@ to
 ```
 Which will make error handling more natural and possibly simplify code.
 
-The patch was sending to the teacher and monitor of the course to check if everything is in accord of recommendation and if it works on Kernel.
+These patchs have to be sending to the teacher and monitor of the course to check if everything is in accord of recommendation and if it works on Kernel.
 
-We have a lot of trouble trying to sending this patch, such as I haven't installed the git send-email command, I need also configure my SMTP, also doing a lot of changes in the commit file to write it in the correctly form. But after all everything is ok and the patch was sending to the monitor. Hope we get the feedback soon!
+When my duo tried to send the codestyle patch, an error appeared regarding the e-mail, and then he gave up on sending the patch.
+
+And I have a lot of trouble trying to sending this patch too, such as I haven't installed the git send-email command, I need also configure my SMTP, also doing a lot of changes in the commit file to write it in the correctly form. But after all everything is ok and the patch was sending to the monitor. Hope we get the feedback soon!
