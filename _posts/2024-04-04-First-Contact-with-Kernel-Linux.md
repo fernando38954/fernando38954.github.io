@@ -13,4 +13,8 @@ the free software community at USP, and this week, we have just finished the fir
 3. [Introduction to kernel build configuration and modules](https://flusp.ime.usp.br/kernel/modules-intro/)
 
 During the study, due to the fact that I didn't follow exactly the creation of the directory in these tutorials, I had a small problem completing these tutorials because I couldn't find the path of the directory I created,
-but after a few attempts, the problem was solved and I finished these three tutorials successfully. Apart from that there were no major problems due to the help of the monitors who are helping us to get started. Thanks for your help! :smile:
+but after a few attempts, the problem was solved and I finished these three tutorials successfully. 
+
+Even though everything went well here, my partner Eduardo had a lot of problems with the tutorial because he didn't read the instructions and explanatory texts, so his progress was lagging behind the rest of the class.
+
+Apart from that there were no major problems due to the help of the monitors who are helping us to get started. Thanks for your help! :smile:
