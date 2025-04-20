@@ -1,9 +1,20 @@
-Hello! Welcome to my homepage!
+---
+layout: default
+title: Home
+---
 
-I'm Fernando Yang, and I'm currently studying Computer Science at IME-USP in São Paulo, Brazil.
+Welcome to my homepage!
 
-You may be confused about the origin of Hagisf, it was actually just a random name I wrote down when I needed a nickname for games like diep.io, but I liked it and so it became a real nickname for most of my social media.
+I’m Fernando Yang, an undergraduate student in Computer Science at the Institute of Mathematics and Statistics of the University of São Paulo (IME-USP). I began my studies in 2022 and have been diving deep into the fascinating world of computing ever since.
 
-I'm using this github-based blog to publish progress on my studies, so I'll share here some of the things I'm doing now or have already completed.
+My main areas of interest lie in Software Engineering and Artificial Intelligence — fields that I find both challenging and inspiring. I'm always eager to explore new concepts, tools, and techniques related to these areas. I also have a strong appreciation for topics like algorithms, data structures, and graph theory, which I think form the backbone of good problem-solving in computer science.
 
-Hope you enjoy it!
+Beyond the classroom, I’m an active member of USPGameDev, a student extension group focused on the study and development of technologies for digital games. It’s been an awesome space to collaborate with others, learn by doing, and merge creativity with technical knowledge.
+
+I created this GitHub-based blog to document and share my learning journey. Here, you'll find updates on what I’ve been studying, projects I’m working on, and things I’ve already completed.
+
+Thanks for stopping by, and I hope you find something interesting here!
+
+<ul>
+  <li><a href="{{ '/mac0470/' | relative_url }}">MAC0470 - Free Software Development</a></li>
+</ul>
