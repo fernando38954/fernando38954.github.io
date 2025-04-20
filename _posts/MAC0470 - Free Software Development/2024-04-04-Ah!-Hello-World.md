@@ -1,6 +1,6 @@
 ---
 date: 2025-02-15
-categories: [MAC0470]
+categories: [mac0470]
 ---
 
 ## Hello World!
