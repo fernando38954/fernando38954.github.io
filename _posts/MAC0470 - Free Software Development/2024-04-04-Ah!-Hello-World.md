@@ -1,8 +1,9 @@
 ---
-title: "Project Alpha"
 date: 2025-02-15
 categories: [MAC0470]
 ---
+
+## Hello World!
 
 Just trying some random stuff about write a post, like a code block
 
