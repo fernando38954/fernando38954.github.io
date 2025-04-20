@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## Debian Packaging Final Steps
 
 I asked our lecturer, Joenio Marques, about the possible causes of the errors reported in the previous post. He replied that the first one could be caused by the fact that there are temporary files inside the folder that caused a local change at the time of the build, or maybe it's the reason for the related global variables such as $PERL5_LIB or $PERL5_PATH.

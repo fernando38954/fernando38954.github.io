@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## Starting the Second Workshop
 
 As mentioned in the title, today we start the second workshop of the MAC0470 course, just like the first one, we follow these tutorials written by FLUSP:

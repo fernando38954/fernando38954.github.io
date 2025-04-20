@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## Solving the Change Request
 
 Since I was sick, I didn't go to class on Tuesday and I didn't make much progress during that time. What I did was read the change request from the maintainer and think about how to solve it. 

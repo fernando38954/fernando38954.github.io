@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## New Error of Debian Packaging
 
 Today I deleted everything I had done before and started Debian packaging again from scratch.

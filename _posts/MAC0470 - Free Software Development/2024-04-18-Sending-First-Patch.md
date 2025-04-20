@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## Sending First Patch
 
 First we tried to make a basic patch correcting only the codestyle of some files, after which we did the following patch:

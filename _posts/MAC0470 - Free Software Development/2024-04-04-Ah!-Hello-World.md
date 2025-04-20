@@ -1,5 +1,4 @@
 ---
-date: 2025-02-15
 categories: [mac0470]
 ---
 

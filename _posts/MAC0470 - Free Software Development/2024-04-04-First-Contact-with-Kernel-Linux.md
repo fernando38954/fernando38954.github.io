@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## First Contact with Kernel Linux
 
 This semester I'm taking the MAC0470-Free Software Development offered by the Mathematics Institute of the University of Sao Paulo. And one of the reasons I'm creating this blog is because of this course.

@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## Continuing Debian Packaging
 
 As mentined before, we continued and finished the first tutorial of Debian Packaging and starts the second part:

@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## Correcting the Patch
 
 As I have other subjects and tasks to do, I haven't been able to do anything about free software in the meantime, but I have just managed to correct the errors and send a v2 patch to the iio kernel maintainers today.

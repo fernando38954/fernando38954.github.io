@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## First Contact With Debian Packaging
 
 In the today's workshop, we have lecture given by Joenio Costa, Perl developer and Debian package maintainer for the Perl ecosystem.

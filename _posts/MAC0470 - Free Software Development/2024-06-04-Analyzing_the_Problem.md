@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## Analyzing the Problem
 
 First, I tried calling kw drm directly, without any parameters, to see its effect and, surprisingly, it returned an error message, saying that it couldn't access port 22 via root.

@@ -1,3 +1,7 @@
+---
+categories: [mac0470]
+---
+
 ## The Nexts Steps
 
 In today's lesson all the groups should present what they did during that time and say what they intend to do next.
