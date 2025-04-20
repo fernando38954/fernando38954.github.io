@@ -6,8 +6,10 @@ layout: default
 
 <ul>
   {% assign category = page.category %}
-  {% for post in site.categories[category] %}
+  {% assign posts_in_category = site.categories[category] | sort: 'date'%}
+  {% for post in posts_in_category %}
     <li>
+      <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
