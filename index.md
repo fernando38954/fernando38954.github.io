@@ -17,5 +17,5 @@ Thanks for stopping by, and I hope you find something interesting here!
 
 <ul>
   <li><a href="{{ '/mac0470/' | relative_url }}">MAC0470 - Free Software Development</a></li>
-  <li><a href="{% post_url 2025-04-20-TCC %}">Supervised Graduation Project</a></li>
+  <li><a href="{{ '/MAC0499-TCC/' | relative_url }}">Supervised Graduation Project</a></li>
 </ul>
